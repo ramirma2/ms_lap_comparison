@@ -27,10 +27,8 @@ Troubleshooting:
 If data is not getting received, here are a couple of things to watch out for:
 a. Check that the main program is running. fastest_lap_microservice.py must be running in order for the microservice to work.
 b. Check that the file names are consistent with the fastest_lap_microservice.py file names. Also, make sure that the path to these files listed in fastest_lap_microservice is accurate.
-c. Check that the data written on the fastest_laps.txt file is formatted correctly. It should only be line 1: <mm:ss>, line 2:<mm:ss> and nothing else.(see screenshot for reference)
+c. Check that the data written on the fastest_laps.txt file is formatted correctly. It should only be line 1: <mm:ss>, line 2:<mm:ss> and nothing else
 
-    ![alt text](./images/image-1.png)
-    
 
 UML diagram:
 
